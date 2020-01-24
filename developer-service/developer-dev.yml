@@ -1,11 +1,10 @@
 developer:
-  fullname: John Smith
-    jobtitle: Senior Engineer
+  fullname: "Lisa Owens\njobtitle: Jr Java Developer"
   skills:
     skill1: java
-    skill2: javascript
-    skill3: html
+    skill2: mysl
+    skill3: spring
 recruiter:
   default:
-    model: cross over
+    model: 'cross over'
 duration: all

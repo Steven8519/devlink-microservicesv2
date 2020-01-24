@@ -1,11 +1,10 @@
 developer:
-  fullname: Mike Thomas
-    jobtitle: DevOps Engineer
+  fullname: "Karen Lewis\njobtitle: Front End Engineer"
   skills:
-    skill1: docker
-    skill2: kubernetes
-    skill3: aws
+    skill1: java
+    skill2: javascript
+    skill3: html
 recruiter:
   default:
-    model: cross over
+    model: 'cross over'
 duration: all

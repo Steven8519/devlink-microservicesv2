@@ -1,11 +1,10 @@
 developer:
-  fullname: Chris Michaels
-   jobtitle: Jr Java Developer
+  fullname: "Sam Hall\njobtitle: Senior Engineer"
   skills:
-   skill1: java
-   skill2: mysql
-   skill3: nosql
+    skill1: java
+    skill2: javascript
+    skill3: html
 recruiter:
   default:
-    model: cross over
+    model: 'cross over'
 duration: all

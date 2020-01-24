@@ -1,11 +1,10 @@
 developer:
-  fullname: Chris Michaels
-    jobtitle: Front End Developer
+  fullname: "John Smith\njobtitle: DevOps Engineer"
   skills:
-    skill1: python
-    skill2: reactjs
-    skill3: vuejs
+    skill1: docker
+    skill2: kubernetes
+    skill3: aws
 recruiter:
   default:
-    model: cross over
-duration: all all
+    model: 'cross over'
+duration: all
