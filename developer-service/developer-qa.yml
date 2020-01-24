@@ -1,0 +1,11 @@
+developer:
+  fullname: Sam Hil
+    jobtitle: Full Stack Engineer
+    skills:
+      - reactjs
+      - java
+      - python
+recruiter:
+  default:
+    model: cross over
+duration: all

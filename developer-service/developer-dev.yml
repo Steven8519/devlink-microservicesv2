@@ -1,0 +1,11 @@
+developer:
+  fullname: John Smith
+    jobtitle: Senior Engineer
+    skills:
+      - java
+      - mysql
+      - nosql
+recruiter:
+  default:
+    model: cross over
+duration: all

@@ -1,0 +1,11 @@
+developer:
+  fullname: John Smith
+    jobtitle: Senior Front End Developer
+    skills:
+      - html
+      - css
+      - javascript
+recruiter:
+  default:
+    model: cross over
+duration: all
