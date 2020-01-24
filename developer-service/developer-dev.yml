@@ -1,10 +1,10 @@
 developer:
   fullname: John Smith
     jobtitle: Senior Engineer
-    skills:
-      - java
-      - mysql
-      - nosql
+  skills:
+    skill1: java
+    skill2: javascript
+    skill3: html
 recruiter:
   default:
     model: cross over

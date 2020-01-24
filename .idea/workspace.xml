@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1373b9ee-7c14-420f-8bc2-cf3d455cfa00" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/developer-service/developer-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/developer-service/developer-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/developer-service/developer-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/developer-service/developer-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/developer-service/developer-qa.yml" beforeDir="false" afterPath="$PROJECT_DIR$/developer-service/developer-qa.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/developer-service/developer.yml" beforeDir="false" afterPath="$PROJECT_DIR$/developer-service/developer.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579822714710</updated>
-      <workItem from="1579822716127" duration="3612000" />
+      <workItem from="1579822716127" duration="4514000" />
     </task>
     <task id="LOCAL-00001" summary="added application.yml file">
       <created>1579826715528</created>
@@ -80,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579826973422</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add application.yml file">
+      <created>1579827570584</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579827570584</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,13 +100,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added application.yml file" />
     <MESSAGE value="added default developer.yml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added default developer.yml file" />
+    <MESSAGE value="add application.yml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add application.yml file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="396" y="127" key="CommitChangelistDialog2" timestamp="1579826973278">
+    <state x="396" y="127" key="CommitChangelistDialog2" timestamp="1579827570422">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="396" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1579826973278" />
+    <state x="396" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1579827570422" />
     <state x="662" y="425" key="Github.ShareDialog" timestamp="1579825773148">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -104,9 +116,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="566" y="238" key="Github.UntrackedFilesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1579825777761" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1579826974590">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1579827572395">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1579826974590" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1579827572395" />
   </component>
 </project>

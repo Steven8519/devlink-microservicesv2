@@ -1,11 +1,11 @@
 developer:
-  fullname: John Smith
-    jobtitle: Senior Front End Developer
-    skills:
-      - html
-      - css
-      - javascript
+  fullname: Chris Michaels
+    jobtitle: Front End Developer
+  skills:
+    skill1: python
+    skill2: reactjs
+    skill3: vuejs
 recruiter:
   default:
     model: cross over
-duration: all
+duration: all all
