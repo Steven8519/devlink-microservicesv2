@@ -1,0 +1,11 @@
+developer:
+  fullname: Chris Michaels
+    jobtitle: Jr Java Developer
+    skills:
+      - java
+      - mysql
+      - nosql
+recruiter:
+  default:
+    model: cross over
+duration: all
